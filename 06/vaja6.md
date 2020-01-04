@@ -4,4 +4,3 @@ https://ucilnica.fri.uni-lj.si/pluginfile.php/132113/mod_resource/content/3/ORS_
 Izjeme, prekinitve ter zunanje prekinitve v STM32F4 (Cortex-M)
 
 Prižganje ledic v kvadratu, simulaicja "binarnega štetja" 
-    
