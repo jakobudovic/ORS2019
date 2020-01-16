@@ -1,3 +1,3 @@
-# Vaje ORS 2019
+# ORS 2019
 
-Vaje pri predmetu ORS. Šolsko leto 2019/20.
+Vaje in zapiski pri predmetu ORS. Šolsko leto 2019/20.
